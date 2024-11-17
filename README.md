@@ -24,8 +24,8 @@ RecSysCinema leverages the power of machine learning to analyze user-movie inter
   - **User 1**: "The Shawshank Redemption", "The Godfather", "Pulp Fiction"
   - **User 5**: "The Matrix", "Fight Club", "The Dark Knight"
 
-These results demonstrate that the RBM effectively captures user preferences and generates accurate recommendations.
-
+#### Training Loss Over Epochs:
+![Training Loss](Images/Training loss over epochs.png)
 ---
 
 ## 🛠️ Customization
@@ -56,10 +56,19 @@ You can modify the following parameters in the `rbm_movie_recommender.py` script
 
 ## 🌟 Future Work
 
-- Implement a graphical user interface (GUI) for real-time recommendations.
-- Extend to include implicit feedback (e.g., clicks, views).
-- Experiment with larger datasets (e.g., MovieLens 1M or Netflix Prize).
-- Compare performance with other collaborative filtering algorithms.
+## 🌟 Future Work
+
+- **Implement a Graphical User Interface (GUI):**
+  Use a framework like Flask or Streamlit to create a web-based interface where users can select their preferences and see real-time recommendations.
+
+- **Incorporate Implicit Feedback:**
+  Extend the model to include additional feedback signals, such as clicks, watch times, or skip actions.
+
+- **Experiment with Larger Datasets:**
+  Scale up the model to handle larger datasets like [MovieLens 1M](https://grouplens.org/datasets/movielens/1m/) or Netflix Prize, optimizing for performance and scalability.
+
+- **Integrate Collaborative Filtering:**
+  Combine the RBM with collaborative filtering techniques (e.g., matrix factorization) to boost recommendation accuracy.
 
 ---
 
