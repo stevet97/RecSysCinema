@@ -65,7 +65,7 @@ You can modify the following parameters in the `rbm_movie_recommender.py` script
 
 ## 📜 License
 
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute it.
+This project is licensed under the GPL-3.0 license. Feel free to use, modify, and distribute it.
 
 ---
 
