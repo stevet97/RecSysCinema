@@ -81,8 +81,8 @@ Contributions are welcome! If you have ideas for improvements or find bugs, plea
 
 If you have any questions or feedback, feel free to reach out:
 
-- **Email**: your_email@example.com
-- **GitHub**: [yourusername](https://github.com/yourusername)
+- **Email**: stephenthomas382@gmail.com
+- **GitHub**: [stevet97](https://github.com/stevet97)
 
 ---
 
