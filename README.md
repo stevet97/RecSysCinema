@@ -1,5 +1,3 @@
-# RecSysCinema
-
 # 🎥 **CineMatch: A Movie Recommendation System Using RBM**
 
 Welcome to **CineMatch**, a movie recommendation system powered by a **Restricted Boltzmann Machine (RBM)**! This project is built using the **MovieLens dataset** and aims to predict movie preferences for users based on their historical ratings.
